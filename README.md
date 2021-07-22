@@ -2,23 +2,38 @@
 
 # FOR TERMUX/UBUNTU/SSH USER
 apt update && apt upgrade
+
 apt install git -y
+
 apt install nodejs -y
+
 apt install ffmpeg -y
+
 apt install imagemagick -y
+
 git clone https://github.com/Nurutomo/wabot-aq
+
 cd wabot-aq
+
 npm install
+
 npm update
 
 # FOR WINDOWS/VPS/RDP USER
 Download And Install Git Click Here
+
 Download And Install NodeJS Click Here
+
 Download And Install FFmpeg Click Here (Don't Forget Add FFmpeg to PATH enviroment variables)
+
 Download And Install ImageMagick Click Here
+
 git clone https://github.com/Nurutomo/wabot-aq
+
 cd wabot-aq
+
 npm install
+
 npm update
 
 Run
